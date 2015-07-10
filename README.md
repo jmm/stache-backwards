@@ -129,7 +129,7 @@ $ npm install stache-backwards
 
 ```js
 var
-  stache_back = require('stach-backwards').handlebars,
+  stache_back = require('stache-backwards').handlebars,
   data;
 
 data = stache_back.extract({template: input});
