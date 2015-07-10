@@ -1,0 +1,26 @@
+{
+  "name": "stache-backwards",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
+  "main": "stache-backwards.js",
+  "files": [
+    "stache-backwards.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/jmm/stache-backwards",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmm/stache-backwards.git"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "handlebars": "^3.0.3",
+    "escape-html": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo This is a proof of concept. There are no tests yet."
+  }
+}
